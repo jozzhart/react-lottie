@@ -1,5 +1,5 @@
 {
-  "name": "@crello/react-lottie",
+  "name": "@jozzhart/react-lottie",
   "version": "0.0.7",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
